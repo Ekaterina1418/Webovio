@@ -32,6 +32,7 @@ button {
 .header {
     position: absolute;
 }
+
 .hero {
     background-image: url('./images/hero-back.jpg');
     background-position: center;
